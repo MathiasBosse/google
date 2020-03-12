@@ -1,4 +1,4 @@
-*{
+* {
     margin: 0;
     padding: 0;   
 }
@@ -56,22 +56,17 @@ li a {
     margin-right: auto;
 }
 
-.searchform
-{
+.searchform {
     display: block;
     text-align: center;
-
-   
 }
 
-form
-{
+form {
     display: inline-block;
     margin-left: auto;
     margin-right: auto;
     position: relative;
-    top: 90px;
-    
+    top: 90px; 
 }
 
 input {
@@ -79,13 +74,13 @@ input {
     height: 40px;
     border-radius: 30px;
     border: 1px solid lightgray;
-  }
+}
 
 .search-buttons {
     display: block;
     margin-top: 100px;
     text-align: center;
-  }
+}
 
 .button {
     border-radius: 4px;
